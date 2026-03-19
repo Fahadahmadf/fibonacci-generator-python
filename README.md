@@ -58,7 +58,7 @@ This project generates the Fibonacci sequence up to *n* terms based on user inpu
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/fibonacci-generator-python.git
+git clone https://github.com/Fahadahmadf/fibonacci-generator-python.git
 
 
 Navigate to the Project Folder:
