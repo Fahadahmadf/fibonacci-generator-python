@@ -1,4 +1,4 @@
-# Author: Fahad Ahmad
+# Author: Fahad Ahmad Fayaz
 # Internship: Python Developer
 
 # Fibonacci Generator Program
